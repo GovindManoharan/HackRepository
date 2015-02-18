@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+D:\Workspaces\HackRepository\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+48367759.index
+4236803200.index
+2145182547.index
+477777532.index
+1256877553.index
